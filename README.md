@@ -40,8 +40,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">🌎 Onde me encontrar</h2>
 
 ###
