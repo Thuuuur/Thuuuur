@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022  <br>📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na Unicid  <br>🎯 Objetivo: me tornar um programador web  <br>🎲 Curiosidade: gosto de jogar Valorant 🎮</p>
+<p align="left">✨ Criando bugs desde 2022  <br>📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na Unicid  <br>🎯 Objetivo: me tornar um programador web  <br>🎲 Curiosidade: gosto de jogar 🎮</p>
 
 ###
 
